@@ -33,7 +33,7 @@ Follow these steps to run the project locally:
 
 1. Clone the repository
 
-git clone https://github.com/your-username/property-rental-platform.git
+git clone https://github.com/Pradnyaap21/property-rental-platform.git
 
 2. Navigate to the project folder
 
